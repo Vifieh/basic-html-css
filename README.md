@@ -6,3 +6,6 @@
 ## Week 2: Learning JavaScript
 ### URL: https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/001/803/115/original/week-2.html?1692158734
 
+## Week 3: Final Project
+### URL: https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/001/818/370/original/homework-2.html?1692959997
+
